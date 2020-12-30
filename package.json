@@ -3,7 +3,10 @@
     "displayName": "aiepConfigureSnippets",
     "description": "Generates aiep configure feature html as starter kit",
     "version": "0.0.1",
-    "publisher": "Ankit Raghuvanshi",
+    "publisher": "canucankit",
+    "repository": {
+        "url": "https://github.com/canucankit/aiep-configure-snippets.git"
+    },
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.52.0"

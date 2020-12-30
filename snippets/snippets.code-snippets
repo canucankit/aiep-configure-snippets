@@ -2,6 +2,10 @@
     "Aiep Configure Anonymous Feature Html Template": {
         "prefix": "!acafh",
         "body": [
+            "<!--",
+            "   Add/ replace the <aiep-wizard-step>, <ng-template>",
+            "   as per your needs and at last remove this comment",
+            "-->",
             "<rfs2-card>",
             "   <rfs2-card-content>",
             "       <div class=\"rfs2-space-stack-lg\">",
