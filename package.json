@@ -1,0 +1,30 @@
+{
+    "name": "aiepConfigureSnippets",
+    "displayName": "aiepConfigureSnippets",
+    "description": "Generates aiep configure feature html as starter kit",
+    "version": "0.0.1",
+    "publisher": "Ankit Raghuvanshi",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptangular",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
